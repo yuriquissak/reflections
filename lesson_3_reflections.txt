@@ -9,3 +9,7 @@ R: thats better in case someone modify a file on github
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 R: fork is a cpoy of a repository on github. its used to get the files and make modifications when you're not allowed to edit the originals, clone is to get the file from a url to a local repository so it might be easier to edit some files, and branches are used to make experiments with the code or try a new feature withouth medling with the original master branch
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+R: its better so you can use that copy to work with it when offline
