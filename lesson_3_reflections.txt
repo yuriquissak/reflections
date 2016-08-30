@@ -13,3 +13,7 @@ R: fork is a cpoy of a repository on github. its used to get the files and make 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 R: its better so you can use that copy to work with it when offline
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+R:it woud be way harder then it to compare and merge modifications
