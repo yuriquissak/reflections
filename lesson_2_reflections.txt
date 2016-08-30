@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 R: it creates a hidden folder to keep track of the metadata of old versions
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+R: its diferent because it wans saved yet and as a planing stage it really important
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+R: using the diff comand to check diferrences and git status to see whats added to the staging area
