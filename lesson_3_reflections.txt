@@ -17,3 +17,8 @@ R: its better so you can use that copy to work with it when offline
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 R:it woud be way harder then it to compare and merge modifications
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+R:i can can experiment with new features and if i want to incorporate something into master i can make a pull request is i am working with a group
+
