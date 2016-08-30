@@ -17,3 +17,7 @@ R: in case you want to add new features or test some things without risking to b
 How do the diagrams help you visualize the branch structure?
 
 R: They show how each commit conects to the others and how branches work
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+R: you make two branched into one, and thats why its represented that way on the diagram
