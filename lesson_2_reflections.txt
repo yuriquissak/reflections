@@ -9,3 +9,7 @@ R: its diferent because it wans saved yet and as a planing stage it really impor
 How can you use the staging area to make sure you have one commit per logical change?
 
 R: using the diff comand to check diferrences and git status to see whats added to the staging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+R: in case you want to add new features or test some things without risking to brek the code
