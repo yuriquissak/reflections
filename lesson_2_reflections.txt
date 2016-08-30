@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+R: it creates a hidden folder to keep track of the metadata of old versions
