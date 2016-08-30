@@ -21,3 +21,7 @@ R: They show how each commit conects to the others and how branches work
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 R: you make two branched into one, and thats why its represented that way on the diagram
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+R: the pros is that its more practical and the con is that most conflicts must be manually solved
